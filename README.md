@@ -106,7 +106,7 @@ http://localhost:8080
 Open browser:
 
 ```
-http://localhost:8080/ask
+http://localhost:8080/
 ```
 
 ---
@@ -148,7 +148,7 @@ Returns AI generated response.
 Example:
 
 ```
-http://localhost:8080/ask
+http://localhost:8080/
 ```
 ### Frontend Running
 
